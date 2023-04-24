@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+
+/* Your CSS Code here. */
+
+/* Your CSS Code here. */
+.holder {
+	width : 600px;
+	background-color : skyblue;
+	display : flex;
+	flex-wrap : wrap;
+	justify-content : center;
+	flex-direction : row-reverse;
+}
+.d1 {
+	height :100px;
+	width :90px;
+	background-color : pink;
+	border : 2px solid black;
+}
